@@ -15,7 +15,7 @@ Beschreibung unseres Taschenrechners:
 
 Dokumentation
 
-1. [Informieren](Inform.md)
+1. [Informieren](Informationen.md)
 2. [Planen](Planen.md)
 3. [Entscheiden]
 4. [Realisieren]
