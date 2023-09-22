@@ -1,4 +1,6 @@
+Beschreibung unseres Taschenrechners: 
 
+1.
 
 
 
