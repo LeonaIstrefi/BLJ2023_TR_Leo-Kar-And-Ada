@@ -9,5 +9,5 @@ Aufteilung:
   2. Karol -> Anfangen Programmieren von Basics
   3. Andrin -> Anfangen Programmieren von Extended
   4. Adam -> Debugging
-  5. Alle --> Timetable/Tasklist
-  6. Andrin --> Funktionen im Programm machen
+  5. Alle -> Timetable/Tasklist
+  6. Andrin -> Funktionen im Programm machen
