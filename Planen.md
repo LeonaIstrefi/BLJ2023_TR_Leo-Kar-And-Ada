@@ -1,7 +1,6 @@
 Was wir brauchen: 
   1. [Flussdiagramm](Flussdiagramm.md)
-  2. Tasklist
-  3. Timetable
+  2. [Timetable + Tasklist](Timetable + Tasklist.md)
   4. Repository
 
 
