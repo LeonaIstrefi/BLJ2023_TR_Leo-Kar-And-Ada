@@ -7,6 +7,6 @@ Was wir brauchen:
 Aufteilung:
   1. Leona -> Dokumentation (Alles vorbereiten, ebenfalls später programmieren) 
   2. Karol -> Anfangen Programmieren von Basics
-  3. Andrin -> Anfangen Programmieren von Extendet
+  3. Andrin -> Anfangen Programmieren von Extended
   4. Adam -> Debugging
   5. Alle --> Timetable/Tasklist
