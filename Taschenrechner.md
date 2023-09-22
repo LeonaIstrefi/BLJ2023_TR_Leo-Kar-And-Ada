@@ -1,3 +1,3 @@
-[inform.md](Inform)
+[Inform](Inform.md)
 
 
