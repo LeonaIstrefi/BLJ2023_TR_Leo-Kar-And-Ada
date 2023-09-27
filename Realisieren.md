@@ -26,7 +26,7 @@ Hier sind einige beispiele von unseren Codes:
 <br>
 <hr>
 
-Wir haben unseren Taschenrechner auch in Funktionen unterteilt, diese sind auf den Screenshots jedoch nicht sichtbar. 
+Wir haben unseren Code auch in Funktionen unterteilt, diese sind auf denm letzten Screenshot nicht sichtbar. 
 
 
 [Zurück zum Inhaltsverzeichnis](README.md)
