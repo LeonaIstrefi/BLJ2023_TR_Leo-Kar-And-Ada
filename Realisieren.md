@@ -6,20 +6,22 @@
 
 Hier sind einige beispiele von unseren Codes: 
 
-![image](https://github.com/LeonaIstrefi/BLJ2023_TR_Leo-Kar-And-Ada/assets/145564029/eab09509-d794-4542-8519-d716b5cdd5ae)
+![image](https://github.com/LeonaIstrefi/BLJ2023_TR_Leo-Kar-And-Ada/assets/145564029/02a9adbb-225e-4585-9f12-bed036768891)
+
 
   <us><li>Dies ist unser Code für die Basics. Das Programmieren der Basics ging ohne Probleme und war sehr einfach. 
 
 <hr>
 
-![image](https://github.com/LeonaIstrefi/BLJ2023_TR_Leo-Kar-And-Ada/assets/145564029/420daf5b-f8bb-4cf7-be9a-28e9b3c236e3)
+![image](https://github.com/LeonaIstrefi/BLJ2023_TR_Leo-Kar-And-Ada/assets/145564029/f6eba0e4-f19f-4f57-af5d-1ff2dfd794ea)
 
 <us><li>Dies ist der Code für die Extended. Bei den Extended hatten wir viele diverse Probleme. Es gab immer wieder verschiedene Probleme, wo wir die Fehler nicht finden konnten. 
 
 <hr>
 
-![image](https://github.com/LeonaIstrefi/BLJ2023_TR_Leo-Kar-And-Ada/assets/145564029/e6d3fbd8-8f8c-4081-946a-6f881a46fff6)
-<us><li> Dies ist der Code für unsere Wahlaufgabe, Schere Stein Papier 
+![image](https://github.com/LeonaIstrefi/BLJ2023_TR_Leo-Kar-And-Ada/assets/145564029/f38f7fc7-ec8b-4b6e-a969-bbb8b7db13fc)
+
+<us><li> Dies ist der Code für unsere Wahlaufgabe, Schere Stein Papier. 
 
 <br>
 <hr>
