@@ -2,6 +2,24 @@
 
 <hr>
 
+### Was waren Erfolge?
+
+ 1. Aufteilen der Aufgaben
+ 2. Das Programmieren der Basics
+ 3. Das machen der Dokumentation
+ 4. Das machen der Präsentation
+ 5. Das Aufteilen der Aufgaben, bei der Präsentation
+
+<hr>
+
+### Was waren Herausforderungen? 
+
+ 1. Das Programmieren der Extended
+ 2. Das einbauen der Funktionen
+ 3. Das Programmieren von Rock Paper Scissor
+
+<hr>
+
 ### Reflexionen 
 
 #### Adam: 
@@ -15,24 +33,6 @@
 
 #### Leona: 
 <us><li>Ich hatte mich von Anfang an auf unsere erste grosse Projektarveit gefreut und das es in einer Gruppe war, machte es das ganze noch besser. SChon von Anfang an habe ich mich in der Gruppe sehr wohl Gefühlt. Gemeinsam konnten wir sehr gut arbeiten und es ebenfalls lustig miteinander haben. Doch, wie in allen Gruppen, hatten wir auch mit einigen zu kämpfen. Wir hatten schon von Anfang an sehr viele Probleme mit den Funktionen, wodurch wir auch mit unsere, Zeitplan ein bisschen hintendrein waren. An einigen momenten waren wir alle sehr verzweifelt, weil es nicht funktionierte. Ebenfalls hat das arbeiten in der letzten Woche ein klein wenig nachgelassen, da alle müde und verzweifelt waren. Im grossen ganzen hat es mir sehr gut gefallen und ich hatte sehr viel spass. 
-
-<hr>
-
-### Was lief, im allgemeinen, gut?
-
- 1. Aufteilen der Aufgaben
- 2. Das Programmieren der Basics
- 3. Das machen der Dokumentation
- 4. Das machen der Präsentation
- 5. Das Aufteilen der Aufgaben, bei der Präsentation
-
-<hr>
-
-### Was lief, im allgemeinen, nicht so gut? 
-
- 1. Das Programmieren der Extended
- 2. Das einbauen der Funktionen
- 3. Das Programmieren von Rock Paper Scissor
 
 <hr>
 
