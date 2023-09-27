@@ -1,5 +1,6 @@
 # BLJ2023_TR_Leo-Kar-And-Ada
 
+<hr>
 
 ## Beschreibung unseres Taschenrechners: 
 
@@ -14,7 +15,7 @@
 
 
 
-
+<hr>
 
 ## Dokumentation
 
