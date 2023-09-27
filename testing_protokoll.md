@@ -8,3 +8,6 @@
 | 6.  | Subtrahierens Code Testing                     | 15-10          | 5                   | 5                   | true   |
 | 7.  | Subtrahierens Code Testing 2.0                 | 5.5-5          | 0.5                 | ERROR               | false  |
 | 8.  | Subtrahierens Code Testing 3.0                 | 12.5-2.5       | 10                  | 10                  | true   |
+| 9.  | RPS-Spiel Testing                              | 1              | Rock                | Rock                | true   |
+| 10. | RPS-Spiel Testing 2.0                          | 1              | Win/Lose/Tie        | Win/Lose/Tie        | true   |
+| 11. | Allgemeines Testing (+,-,/,*,RPS)              | (Testing)      | Funktionierend      | Funktionierend
