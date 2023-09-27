@@ -9,4 +9,4 @@
 
 <br>
 
-[Zurück zum Inhaktsverzeichnis](Inhaltsverzeichnis.md)
+[Zurück zum Inhaltsverzeichnis](Inhaltsverzeichnis.md)
