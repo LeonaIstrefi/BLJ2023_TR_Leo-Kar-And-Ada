@@ -1,4 +1,4 @@
-# Infomieren 
+# Informieren 
 
 <hr>
 
