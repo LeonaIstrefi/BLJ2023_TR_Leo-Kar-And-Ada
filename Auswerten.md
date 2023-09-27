@@ -18,9 +18,24 @@
 
 <hr>
 
+### Was lief, im allgemeinen, gut?
+
+ 1. Aufteilen der Aufgaben
+ 2. Das Programmieren der Basics
+ 3. Das machen der Dokumentation
+ 4. Das machen der Präsentation
+ 5. Das Aufteilen der Aufgaben, bei der Präsentation
+
+<hr>
+
+### Was lief, im allgemeinen, nicht so gut? 
+
+ 1. Das Programmieren der Extended
+ 2. Das einbauen der Funktionen
+ 3. Das Programmieren von Rock Paper Scissor
+
+<hr>
+
 [Zurück zum Inhaltsverzeichnis](README.md)
-
-
-
 
 
