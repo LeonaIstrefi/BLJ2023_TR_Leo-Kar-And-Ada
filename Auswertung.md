@@ -2,7 +2,7 @@
 
 <hr>
 
-## Was lief  gut?
+### Was lief, im allgemeinen, gut?
 
  1. Aufteilen der Aufgaben
  2. Das Programmieren der Basics
@@ -11,7 +11,7 @@
  5. Das Aufteilen der Aufgaben, bei der Präsentation
 
 
-## Was lief nicht so gut? 
+### Was lief, im allgemeinen, nicht so gut? 
 
  1. Das Programmieren der Extended
  2. Das einbauen der Funktionen
