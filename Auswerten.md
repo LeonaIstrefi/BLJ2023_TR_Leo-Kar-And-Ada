@@ -2,7 +2,7 @@
 
 <hr>
 
-## Reflexionen 
+### Reflexionen 
 
 #### Adam: 
 <us><li>Ganz am Anfang habe ich es schwer gefunden in die Gruppe reinzupassen, aber mit der Zeit passte ich mich automatisch an und konnte sehr zügig arbeiten. Ich finde die Arbeit mit dem Taschenrechner war meistens grosszügig. Jedoch es gab Momente, wie sicher auch in anderen Gruppen, wo es nicht so gut gelaufen ist. Wie z.B. beim Hinzufügen von allen Funktionen in ein Code. Schlussendlich würde ich beim nächsten mal ein wenig schneller Arbeiten, weil ich mich manchmal ausversehen auf etwas anderes fokussiere und es ist schwer für mich zurück auf dem Takt zu kommen.
