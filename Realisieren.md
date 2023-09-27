@@ -19,8 +19,12 @@ Hier sind einige beispiele von unseren Codes:
 <hr>
 
 ![image](https://github.com/LeonaIstrefi/BLJ2023_TR_Leo-Kar-And-Ada/assets/145564029/e6d3fbd8-8f8c-4081-946a-6f881a46fff6)
-<us><li> Dies ist der Code für unsere Wahluâufgabe, Schere Stein Papier 
+<us><li> Dies ist der Code für unsere Wahlaufgabe, Schere Stein Papier 
 
 <br>
+<hr>
+
+Wir haben unseren Taschenrechner auch in Funktionen unterteilt, diese sind auf den Screenshots jedoch nicht sichtbar. 
+
 
 [Zurück zum Inhaltsverzeichnis](README.md)
