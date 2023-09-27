@@ -12,3 +12,4 @@
 3. [Entscheiden](Entscheidung.md)
 4. [Realisieren]
 5. [Kontrollieren]
+6. [Auswerten]
