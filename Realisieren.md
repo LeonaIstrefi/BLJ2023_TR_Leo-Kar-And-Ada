@@ -13,4 +13,11 @@
 
 ## Was lief nicht so gut? 
 
- 1. Das Programmieren der Exp
+ 1. Das Programmieren der Extended
+ 2. Das einbauen der Funktionen
+ 3. Das Prgrammieren von Rock Paper Scissor
+
+
+<br>
+
+[Zurück zum Inhaltsverzeichnis](README.md)
