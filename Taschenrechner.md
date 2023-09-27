@@ -1,19 +1,8 @@
-Beschreibung unseres Taschenrechners: 
+# Inhaltsverzeichnis
 
-1.
+<hr>
 
-
-
-
-
-
-
-
-
-
-
-
-Dokumentation
+## Dokumentation
 
 1. [Informieren](Informationen.md)
 2. [Planen](Planen.md)
