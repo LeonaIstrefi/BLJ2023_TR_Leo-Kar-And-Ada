@@ -5,8 +5,6 @@
 ## Inhaltsverzeichnis 
 
 
-<hr>
-
 ### Dokumentation
 
 1. [Informieren](Informationen.md)
