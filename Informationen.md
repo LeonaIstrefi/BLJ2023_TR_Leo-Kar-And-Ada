@@ -19,6 +19,8 @@
 <li> GitHub </li>
 <li> PowerPoint </li> 
 <li> ChatGPT </li>
+<li> W3SCHOOLS </li>
+<li> Fachinformatiker </li>
 
 <br>
 <br>
