@@ -7,8 +7,8 @@ int main()
     float num1 = 2;
     float num2 = 3;
     float num3 = 3;
-    int exp = 3;
-    int base = 4;
+    int exp;
+    int base;
     float result;
     char operation;
     float n;
@@ -49,7 +49,7 @@ int main()
         printf("Choose a base and an exponent:\n");
         scanf("%d", &base);
         scanf("%d", &exp);
-        printf("%d^%d = %d", expo(base, exp));
+        printf("%d^%d = %d", base, exp, expo(base, exp));
         break;
     case '~':
         printf("Choose a number of which you want to know the root:\n");
@@ -58,8 +58,8 @@ int main()
         break;
     case '!':
         printf("Choose a number of which you want to know the faculty:\n");
-        scanf("%i", &fac);
-        printf("%d! = %d", n, root(n));
+        scanf("%d", &fac);
+        printf("%d! = %d", fac, faculty(fac));
         break;
     case 'r':
         do
